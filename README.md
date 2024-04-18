@@ -1,5 +1,9 @@
 # Global Super Store
 ## The Global Super Store dataset is file includes more tha 51000 records of data about customers, orders and products world wide.
+
+##Technology used 
+- Tableau 
+
 ### Prepare the data set for analysis
 - Making sure that all field including the order date and the ship date contain correct data types
 - Hiding columns which wont be used during the analses
@@ -26,7 +30,8 @@
 #
 ## Dashboard that includes the Sales in Africa map and the new worksheet Profits in Africa 
 
-![Africa global sales](https://github.com/PLThabangR/Global-Store-/assets/39111822/2e91aff2-7df7-48e0-b1c4-bbef9fcdaf75)
+![4_3](https://github.com/PLThabangR/Global-Store-/assets/39111822/afb5763e-2faa-4715-8ac8-4982c58a0b7b)
+
 #
 ## Recomendation 
 - 
