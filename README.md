@@ -1,8 +1,8 @@
 # Global Super Store
 ## The Global Super Store dataset is file includes more tha 51000 records of data about customers, orders and products world wide.
 
-##Technology used 
-- Tableau 
+## Technology used 
+- Tableau
 
 ### Prepare the data set for analysis
 - Making sure that all field including the order date and the ship date contain correct data types
@@ -34,4 +34,7 @@
 
 #
 ## Recomendation 
-- 
+- South Africa And Morocco have the highest profit
+#
+# Find project here
+(https://public.tableau.com/app/profile/thabang.rakgoropo/viz/GlobalstoresaletrendinAfrica/Dashboard1)
