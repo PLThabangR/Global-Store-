@@ -1,4 +1,4 @@
-# Global Super Store
+# Global Super Store- Tableau
 ### The Global Super Store dataset is file includes more tha 51000 records of data about customers, orders and products world wide.
 
 ### Technology used 
