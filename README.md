@@ -1,7 +1,7 @@
 # Global Super Store
-## The Global Super Store dataset is file includes more tha 51000 records of data about customers, orders and products world wide.
+### The Global Super Store dataset is file includes more tha 51000 records of data about customers, orders and products world wide.
 
-## Technology used 
+### Technology used 
 - Tableau
 
 ### Prepare the data set for analysis
@@ -28,7 +28,7 @@
 ![line_trend](https://github.com/PLThabangR/Global-Store-/assets/39111822/2de8add6-f9f8-43b5-ba9f-6fd24f622f33)
 
 #
-## Dashboard that includes the Sales in Africa map and the new worksheet Profits in Africa 
+### Dashboard that includes the Sales in Africa map and the new worksheet Profits in Africa 
 
 ![4_3](https://github.com/PLThabangR/Global-Store-/assets/39111822/afb5763e-2faa-4715-8ac8-4982c58a0b7b)
 
@@ -36,5 +36,5 @@
 ## Recomendation 
 - South Africa And Morocco have the highest profit
 #
-# Find project here
+### Find project here
 (https://public.tableau.com/app/profile/thabang.rakgoropo/viz/GlobalstoresaletrendinAfrica/Dashboard1)
